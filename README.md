@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error related to accessing dictionary keys that might not exist and offers a robust solution. The `bug.py` file contains the erroneous code, while `bugSolution.py` provides a more resilient version.
